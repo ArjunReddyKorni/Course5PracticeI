@@ -26,6 +26,11 @@ public class DemoWrapper {
         System.out.println("Double.MAX_VALUE = " + Double.MAX_VALUE);
         System.out.println("Double.MIN_VALUE = " + Double.MIN_VALUE);*/
 
+<<<<<<< HEAD
+=======
+        System.out.println("Integer.MAX_VALUE = " + Integer.MAX_VALUE);
+
+>>>>>>> 3b2c204 (used some methods of Wrapper class.)
         Boolean b1 = Boolean.valueOf(true);
         Boolean b2 = Boolean.valueOf(false);
 
